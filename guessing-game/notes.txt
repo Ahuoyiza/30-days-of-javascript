@@ -1,0 +1,6 @@
+Assignment One: May 20, 2021
+- Read up https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
+- create a repo and start working on the project above, follow the First_steps
+- rename your variables and classses
+- for your html, draft something simple or be creative with it
+- submit the repo url to the group

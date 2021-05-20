@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Guess It</title>
+</head>
+<body>
+    <main>
+        <section class="game-dets">
+            <header>
+                <h1>Guess It!</h1>
+            </header>
+            <p>
+                We have selected a random number between 1 and 100. See if you can guess it in 10 turns or fewer. We'll tell you if your guess was too high or too low.
+            </p>
+            <form>
+                <label>
+                    Enter a guess:
+                </label>
+                <input type="number" class="guessField" id="" />
+                <button type="submit" value="submit" class="guessSubmit">Submit guess</button>
+            </form>
+
+            <div class="resultParas">
+                <p class="guesses"></p>
+                <p class="lastResult"></p>
+                <p class="lowOrHi"></p>
+            </div>
+        </section>
+        <section class="img">
+            <img  alt="game" src="https://res.cloudinary.com/sophire/image/upload/v1621548542/Personal/svg/undraw_gaming_6oy3_jsmla3.svg" />
+        </section>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
