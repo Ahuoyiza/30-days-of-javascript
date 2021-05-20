@@ -4,3 +4,8 @@ Assignment One: May 20, 2021
 - rename your variables and classses
 - for your html, draft something simple or be creative with it
 - submit the repo url to the group
+
+
+
+
+//projects will be done in their branches
