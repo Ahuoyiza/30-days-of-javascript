@@ -16,7 +16,14 @@ let resetButton ;
 //functions 
 
 function checkGuess() {
-    // alert('we are learning functions')
+    let userGuess = Number(guessField.value); 
+    
+    if (guessCount === 1) {
+        guesses.textContent = 'Previous guesses:  '
+    }
+
+    guesses.textContent += userGuess + ' ';
 }
 
 checkGuess();
+
