@@ -16,13 +16,14 @@
             <p>
                 We have selected a random number between 1 and 100. See if you can guess it in 10 turns or fewer. We'll tell you if your guess was too high or too low.
             </p>
-            <form>
+            <div class="form">
                 <label>
                     Enter a guess:
                 </label>
                 <input type="text" class="guessField" id="" />
                 <button type="submit" value="submit" class="guessSubmit" >Submit guess</button>
-            </form>
+                <button style="display: none;" type="submit" class="resetButton" >Start new game</button>
+            </div>
 
             <div class="resultParas">
                 <p class="guesses"></p> 
