@@ -9,7 +9,6 @@
   const resetButton = document.querySelector('.resetButton');
 
   let guessCount = 1;
-  
 
   function checkGuess () {
 
