@@ -7,3 +7,6 @@ This will include:
 - Blog posts link
 -  Video lessons Links
 -  Project Solutions and walk through
+
+## Projects 
+1. [ Guess it!](https://guess-it-soph.netlify.app)
