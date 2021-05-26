@@ -1,0 +1,10 @@
+Project 2: May 25, 2021 (due on the 27th)
+
+Details: A simple page with an option to change page theme (background and fonts majorly)
+
+tasks:
+1. create the project folder in your local machine and push to github
+2. choose a simple web page design that you can easily implement
+3. In your js file, write functions that will change the page theme on click
+4. users shoould have 3 theme otpions (minimum)
+5. submit project url
