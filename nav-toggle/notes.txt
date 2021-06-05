@@ -1,0 +1,6 @@
+Assignment June 5th, 2021
+
+1. Create a webpage with a navigation/menu bar that is responsive on all screens.
+2. On mobile it should only render when a user clicks an icon.
+
+note: optimize whats available in html & css and write only necessary javascript

@@ -10,6 +10,8 @@
 
   let guessCount = 1;
 
+
+
   function checkGuess () {
 
     let userGuess = Number(guessField.value);
