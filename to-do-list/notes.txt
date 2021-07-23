@@ -6,3 +6,4 @@
 6. save deleted items tempoarily
 7. restore deleted items
 8. save session in local storage 
+

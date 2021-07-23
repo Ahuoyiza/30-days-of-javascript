@@ -8,3 +8,11 @@ tasks:
 3. In your js file, write functions that will change the page theme on click
 4. users shoould have 3 theme otpions (minimum)
 5. submit project url
+
+
+steps:
+1. add two buttons to the html file (1 for default theme and another for darktheme)
+2. store the elements we will be accessing in a variable
+3. write a function for default theme
+4. write a function for dark theme
+5. call the function in the html file; via onclick event in the buttons
