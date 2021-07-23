@@ -17,6 +17,7 @@ a {
 
 .mobile-nav {
     display: none;
+    max-height: 80vh;
 }
 @media screen and (max-width : 700px) {
     .desktop-nav {
