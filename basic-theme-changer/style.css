@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    max-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    background-color: #fff;
+    color: #000;
+}
+
+.circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+}
+button {
+    margin-top: 10px;
+}

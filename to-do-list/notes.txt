@@ -1,0 +1,8 @@
+1. add items to the list
+2. save and display items rendered to the list
+3. add check box to each list items
+4. check completed items and move them to completed
+5. delete items from the list
+6. save deleted items tempoarily
+7. restore deleted items
+8. save session in local storage 
