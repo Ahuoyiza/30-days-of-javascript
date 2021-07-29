@@ -5,33 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To do List</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <h1>to-do List</h1>
+    </header>
     <main>
-        <header>
-            <h1>To-do List</h1>
-        </header>
-        <section>
-            <section class="input-area">
-                <div class="input-wrap"><input type="text" placeholder="Add new"></div>
-                <button class="add-button" type="submit">
-                    <img src="./assets/plus.png" alt="">
-                </button>
-            </section>
-            <section class="list">
-                <div class="list-items">
-                    <ul>
-                        <!-- check box & list items here -->
-                    </ul>
-                </div>
-            </section>
-            <section class="deleted"></section>
-        </section>
+        <p>Get things done!</p>
+        <div class="section1">
+            <div id="form" class="form">
+                <input 
+                type="text" 
+                placeholder="Enter your todo" 
+                id="user-input"
+                autocomplete="off">
+                <button id="add">add</button>
+            </div>
+            <div id="todos">
+
+            </div>
+        </div>
     </main>
-    <footer>
-        <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-    </footer>
-    
+    <script src="/to-do-list/index.js"></script>
 </body>
 </html>
