@@ -1,0 +1,15 @@
+Topics:
+Linking js with html file// //console
+
+Code structure : - structure
+            - comments
+            - console
+            - alert & prompts
+Variables: -def
+            - types
+            - naming
+            - good practice
+            
+
+            // stored data
+            

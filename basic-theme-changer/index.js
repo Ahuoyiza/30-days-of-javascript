@@ -1,5 +1,5 @@
 // access the body element node in html and store it 
-let body = document.body.style
+let body = document.body.style;
 
 let section = document.getElementById("section").style
 // function that has default,  another function for dark theme
