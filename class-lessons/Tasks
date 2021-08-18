@@ -1,0 +1,6 @@
+August 18, 2021
+
+Task:
+1. Write a program that logs your bio data to the console.
+* note: each bio data should be stored in it's own variable and use naming conventions
+2. What is variable scope in javascript and how is let different from var? (write your answer for this in a .txt file)

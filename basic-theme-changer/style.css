@@ -19,3 +19,6 @@ body {
 button {
     margin-top: 10px;
 }
+.section-grey{
+    background-color: grey;
+}
