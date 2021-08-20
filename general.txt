@@ -12,4 +12,16 @@ Variables: -def
             
 
             // stored data
-            
+Data Types
+        -Data Types: Def
+        Primitive data types:
+        1. String
+        2. Number
+        3. Boolean
+        4. BigInt
+        5. Null
+        6. Undefined
+        7. Object
+        8. Symbol
+        Derived data types:
+        1. arrays 
