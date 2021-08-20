@@ -1,45 +1,48 @@
-//  let username = prompt('What is your name?');
-//  let namePrint = alert(`Hello ${username}!`);
+// strings " " '' ``
+//characters 
+ let stringExample = `"she's a nice person"`
+// console.log(stringExample)
+ //  She's beautiful
+ // "stop!", he screamed
+ // "she's a nice person"
+ 
+// string concatenation
+let sum = "2" + "3";
+// console.log(sum);
+    let stringConcat = "hello" + " " + "world"
+    let longSentence = "hello" + " " + "world" + " " 
+    + "how" + " " + "are" + " " + "you"
+    // console.log(longSentence);
+// cleaner codes, lesser special characters
+    let user = 'Edith'
+    let greeting = 'good morning'
 
-// write a program that adds two numbers and displays the result
+    let result = `${user} ${greeting}
+    how are you?
+    `
+    // console.log(result);
+    
+    // Number 
+    // integers and floats(decimals)
+     let integerEg = 10.7
+    let price = "h" * 'gh'
+    console.log(price);
+    console.log(typeof(price))
+    //  let total = price + 5
+    //  console.log(total)
+    //  typeof 
 
-let sum  = 1 + 2;
-console.log(sum);
+    //  let add = "2" + 3
+    //  console.log(add) //NaN
 
+     let newNumber =  (
+         2 to the power of 53  minus 1 //BigInt 
 
-// data:  storage, manipulations, and operations
+         // null 
+         // undefined 
+        let studentsData = {
+            name: 'John',
+            age: 25,
 
-// javascript is a dynamic language, meaning that variables type can change over time
-// let const 'var'
-let colors; //variable declaration
-    let        username           =                  'Sophia'      ;
-// keyword      variable name    assigment operator    value
-
-// scope in js.... part of the task
-let countries = ['USA', 'UK', 'Germany', 'France', 'Spain'];
- countries = 'Nigeria'
-
-//  const  BIRTH_YEAR = '2000';
-//  BIRTH_YEAR = '2001';
-//  console.log(BIRTH_YEAR);
-
-//   let $ggg;
-//    let _getNew
-//    let name123
-//    let n3ngfgvgs$_
-//     let 5th
-
-    let _ = 7;
-    console.log(_);
-
-    let studentsName = 'Sophia';
-
-    let thisIsAVeryLongVariableName = 'Sophia';
-    let this_is_a_snake_case_variable_name = 'Sophia';
-
-    // case sensistive
-
-    let sophia =10;
-    console.log(Sophia);
-
-    let a =9
+        }
+        let arrayExample = [1, 2, 3, 4, 5]
