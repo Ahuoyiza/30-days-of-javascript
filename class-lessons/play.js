@@ -1,48 +1,36 @@
-// strings " " '' ``
-//characters 
- let stringExample = `"she's a nice person"`
-// console.log(stringExample)
- //  She's beautiful
- // "stop!", he screamed
- // "she's a nice person"
- 
-// string concatenation
-let sum = "2" + "3";
-// console.log(sum);
-    let stringConcat = "hello" + " " + "world"
-    let longSentence = "hello" + " " + "world" + " " 
-    + "how" + " " + "are" + " " + "you"
-    // console.log(longSentence);
-// cleaner codes, lesser special characters
-    let user = 'Edith'
-    let greeting = 'good morning'
+// let b ="Write a program that takes a string and returns the number of words in the string." //string 
+// method : .split() // can be used to split a string into an array
+// console.log(b.split(" ").length)
 
-    let result = `${user} ${greeting}
-    how are you?
-    `
-    // console.log(result);
-    
-    // Number 
-    // integers and floats(decimals)
-     let integerEg = 10.7
-    let price = "h" * 'gh'
-    console.log(price);
-    console.log(typeof(price))
-    //  let total = price + 5
-    //  console.log(total)
-    //  typeof 
+// Write a program that takes a string and returns the number of words in the string.
+// 1. takes any string
+//2. count the number of words in the string
+//3. return the number of words in the string
 
-    //  let add = "2" + 3
-    //  console.log(add) //NaN
+// let array = ["Hello", "world", "!"]
 
-     let newNumber =  (
-         2 to the power of 53  minus 1 //BigInt 
-
-         // null 
-         // undefined 
-        let studentsData = {
-            name: 'John',
-            age: 25,
-
-        }
-        let arrayExample = [1, 2, 3, 4, 5]
+// function 
+// es5 
+// function wordCount(str) {
+//     return str.split(' ').length
+// }
+// console.log(wordCount('get me some juice'))
+// es6 or arrow functions
+// const anotherCount = (str) => {
+//     return str.split(' ').length
+// } 
+// console.log(anotherCount('get me some juice and pie'))
+// const anotherWord
+// working with dom 
+// strings, arrays, objects 
+// let users = ['Comfort', 'Edith', 'Sophia',['Success', 'Magdalene'] ,'Boluwatife']
+//            console.log(users)
+// let legitUser = users[3][1]
+// console.log(legitUser)
+// hypothetically game
+// if ( legitUser === 'a') {
+//     console.log('you are qualified to play the game')
+// } else{
+//     console.log('you are not qualified to play the game')
+// }
+// let arr2 = [[1,2,3],[4,5,6],[7,8,9]]
