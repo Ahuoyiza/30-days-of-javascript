@@ -21,3 +21,6 @@ Task:
 1. Improve the weekend challenge to accept input from a user and onclick the word count should show on the screen.
 *goal: for you to work with the DOM and events. 
 2. Read/study and practice with some methods that are applicable to strings in javaScript.
+
+August 25, 2021
+1. Write a program that accepts any 3 digit number between 000 to 255 and changes the background color of the page to that number equivalent in color.
