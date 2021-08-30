@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Play</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <i id="color-box" class="fi-rr-palette"></i>
+    <section>
+    <div>
+        <p>
+            Insert rgb values( between 0 -255) to change the color of the palette.
+        </p>
+    </div>
+    <label for="red">Red</label>
+    <input id="red"type="number"  min="0" max="255" required>
+    <label class="green" for="green">Green</label>
+    <input id="green"type="number" min="0" max="255" required>
+    <label for="blue">Blue</label>
+    <input id="blue"type="number" min="0" max="255" required >
+    </section>
+    <button onclick="colorChange()">Change the color</button>
+    <p id="message"></p>
+    <script src="index.js"></script>
+</body>
+</html>
