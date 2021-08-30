@@ -10,3 +10,4 @@ This will include:
 
 ## Projects 
 1. [ Guess it!](https://guess-it-soph.netlify.app)
+2. [Color Play](https://sophia-color-play.netlify.app/)
